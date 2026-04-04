@@ -17,18 +17,20 @@ Inspired by classic top-down adventure games (like Zelda-style systems), this to
 
 ## Current Systems
 
-### Movement System (v1.1)
+### 2D Movement System (v2.0)
 
-A clean, responsive 4-direction movement system with support for both Unity input systems.
+A reusable, adventure game–inspired 2D top-down movement system built with Unity’s **New Input System**, designed for clarity, flexibility, and easy integration.
 
 GitHub: [https://github.com/lizziejperez/gridventure-toolkit-movement-system](https://github.com/lizziejperez/gridventure-toolkit-movement-system)
 
 Features:
 
-* 4-direction movement (no diagonal)
+* 4-directional movement (up, down, left, right)
+* Optional diagonal movement
+* Adjustable movement speed
+* Supports keyboard and controller input
 * Rigidbody2D-based physics
-* Supports legacy + new Input System
-* Includes demo scene + pixel assets
+* Includes demo scene + 16x16 pixel assets (player, trees, rocks, bushes)
 
 ### Menu & Scene System (v1.0)
 
