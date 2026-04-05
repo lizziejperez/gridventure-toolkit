@@ -19,7 +19,7 @@ Inspired by classic top-down adventure games (like Zelda-style systems), this to
 
 ### 2D Movement System (v2.0)
 
-A reusable, adventure game–inspired 2D top-down movement system built with Unity’s **New Input System**, designed for clarity, flexibility, and easy integration.
+A reusable, adventure game–inspired 2D top-down movement system built with Unity’s New Input System, designed for clarity, flexibility, and easy integration.
 
 GitHub: [https://github.com/lizziejperez/gridventure-toolkit-movement-system](https://github.com/lizziejperez/gridventure-toolkit-movement-system)
 
@@ -32,18 +32,20 @@ Features:
 * Rigidbody2D-based physics
 * Includes demo scene + 16x16 pixel assets (player, trees, rocks, bushes)
 
-### Menu & Scene System (v1.0)
+### Menu & Scene System (v2.0)
 
-A modular scene flow system for handling title screens and transitions.
+A reusable, modular menu and scene management system built with Unity’s New Input System for handling title menus, gameplay transitions, and pause functionality.
 
 GitHub: [https://github.com/lizziejperez/gridventure-toolkit-menu-scene-system](https://github.com/lizziejperez/gridventure-toolkit-menu-scene-system)
 
 Features:
 
-* Title → Game scene flow
-* Centralized scene config (Scriptable Object)
-* Simple input-based navigation (Enter / Esc)
-* Designed for easy expansion (pause, settings)
+* Title menu system (start game / quit)
+* Pause menu system (pause, resume, return to title)
+* Centralized scene config (ScriptableObject)
+* Intent-based input actions (Confirm / Cancel)
+* Ready-to-use prefabs for title and pause systems
+* Works for both 2D and 3D Unity projects
 
 ### Pixel Assets (Free)
 
