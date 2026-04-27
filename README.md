@@ -17,6 +17,23 @@ Inspired by classic top-down adventure games (like Zelda-style systems), this to
 
 ## Current Systems
 
+### World Generation System (v1.0)
+
+A modular 2D world generation system for Unity that creates procedural tile-based worlds using Perlin noise and ScriptableObject-driven configuration.
+
+GitHub: https://github.com/lizziejperez/gridventure-toolkit-world-generation-system
+
+Features:
+
+* Procedural terrain generation using Perlin noise
+* Tilemap-based rendering with Rule Tile support
+* ScriptableObject-driven terrain and feature setup
+* Deterministic generation using seeds
+* Feature placement system (trees, rocks, etc.)
+* Save & load system for generated worlds
+* Editable worlds via Tile Palette and prefabs
+* Includes demo scene with configured generation and controls
+
 ### 2D Movement System (v2.0)
 
 A reusable, adventure game–inspired 2D top-down movement system built with Unity’s New Input System, designed for clarity, flexibility, and easy integration.
@@ -47,7 +64,7 @@ Features:
 * Ready-to-use prefabs for title and pause systems
 * Works for both 2D and 3D Unity projects
 
-### Pixel Assets (Free)
+### Pixel Assets Free (v3.0)
 
 A 16x16 pixel art pack used in the toolkit demos.
 
@@ -55,9 +72,17 @@ Itch.io: [https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-fr
 
 Includes:
 
-- Player sprite (color customizable)
-- Environment tiles (trees, rocks, bushes)
-- Demo-ready assets for prototyping
+- Gridventure Toolkit's custom color palette 
+- Environment: Grass, water, and path tilesets
+- Nature Props: Trees, bushes, and rocks
+- Items
+    - Coin, chest, key
+    - Potions (red, blue, green)
+    - Sword, shield, bow
+    - Heart, note, signpost
+- Characters
+    - Player (idle)
+    - Enemies: slime, skeleton (idle)
 
 ## How to Use This Toolkit
 
