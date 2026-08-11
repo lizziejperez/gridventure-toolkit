@@ -1,4 +1,4 @@
-# Gridventure Toolkit (Unity C#)
+# Gridventure Toolkit
 
 A modular, beginner-friendly toolkit for building top-down adventure games in Unity.
 
@@ -64,25 +64,36 @@ Features:
 * Ready-to-use prefabs for title and pause systems
 * Works for both 2D and 3D Unity projects
 
-### Pixel Assets Free (v3.0)
+### Pixel Assets Free (v4.0)
 
-A 16x16 pixel art pack used in the toolkit demos.
+A cohesive collection of original 16x16 top-down pixel assets designed for rapid prototyping and use with Gridventure Toolkit systems and demos.
 
-Itch.io: [https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-free](https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-free)
+Itch.io: https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-free
 
 Includes:
 
-- Gridventure Toolkit's custom color palette 
-- Environment: Grass, water, and path tilesets
-- Nature Props: Trees, bushes, and rocks
+- Gridventure Toolkit custom color palette
+- Environment
+  - Grass, water, and path tilesets
+- Nature Props (with variants)
+  - Trees, bushes, flowers, and rocks
 - Items
-    - Coin, chest, key
-    - Potions (red, blue, green)
-    - Sword, shield, bow
-    - Heart, note, signpost
+  - Collectibles
+  - Chests
+  - Equipment
+  - Food
+  - Hearts
+  - Potions
+  - Signs
 - Characters
-    - Player (idle)
-    - Enemies: slime, skeleton (idle)
+  - Player character variants
+  - Slime variants and skeleton
+- World & UI Variants
+  - World sprites aligned for placement in-game
+  - Centered item sprites for inventories, menus, and HUDs
+- Flexible Asset Formats
+  - Individual sprites organized by category
+  - Spritesheets for convenient importing and slicing
 
 ## How to Use This Toolkit
 
@@ -96,31 +107,46 @@ Typical workflow:
 4. Expand with additional systems (coming soon)
 
 ## Roadmap
-### Next Systems (In Progress / Planned)
 
-* World Generation
-  * Tile-Based Generator (with auto-tiling)
-  * Wave Function Collapse (WFC) system + auto-tiling
-* Dungeon Generation
-  * Room-based procedural dungeon generator
-  * Designed to work with future dungeon asset packs
-* Interaction System
-  * Trigger zones
-  * Key-based interaction (press key to interact)
-  * Dialogue popups
+### Currently Planned
 
-### Core Gameplay Systems (Planned)
+- Sprite Animation System
+  - Reusable sprite-based animation system
+  - Designed to work with Gridventure Toolkit animated pixel assets
+- Health System
+  - Reusable player and enemy health
+  - Heart-based UI support
+- Inventory + Item/Pickup System
+  - Reusable item definitions
+  - World pickups
+  - Inventory management
+- Interaction System
+  - Reusable interactions for world objects
+  - Support for objects such as signs and chests
+- Consumable System
+  - Food, potions, and other usable items
+- Equipment System
+  - Equippable weapons and equipment
+- Combat + Enemy System
+  - Player combat
+  - Enemy health and damage
+  - Reusable enemy behavior
+ 
+### Future Systems
 
-* Inventory System
-* Dialogue System (branching conversations)
-* Quest System
-* Save / Load System
+- Wave Function Collapse (WFC) World Generation
+- Dungeon Generation
+  - Room-based procedural dungeon generator
+  - Designed to work with future dungeon asset packs
+- Dialogue System
+- Quest System
+- Expanded Save / Load functionality
 
-### Asset Packs (Planned)
+### Asset Packs
 
-* Animated pixel character pack (paid)
-* Expanded environment tilesets
-* Dungeon tiles + props
+- Animated Pixel Assets
+- Expanded environment tilesets
+- Dungeon tiles + props
 
 ## Design Philosophy
 
