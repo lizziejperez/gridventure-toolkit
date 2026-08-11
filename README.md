@@ -70,7 +70,7 @@ A cohesive collection of original 16x16 top-down pixel assets designed for rapid
 
 Itch.io: https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-free
 
-![Gridventure Toolkit Demo](images/art-demo-3.png)
+![Gridventure Toolkit Pixel Assets Free Demo](images/pixel-asset-free-demo-v4.png)
 
 Includes:
 
