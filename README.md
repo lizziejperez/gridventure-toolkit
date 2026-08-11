@@ -23,6 +23,8 @@ A modular 2D world generation system for Unity that creates procedural tile-base
 
 GitHub: https://github.com/lizziejperez/gridventure-toolkit-world-generation-system
 
+![Gridventure Toolkit Pixel Assets Free Demo](images/world-generated-demo.png)
+
 Features:
 
 * Procedural terrain generation using Perlin noise
@@ -70,7 +72,8 @@ A cohesive collection of original 16x16 top-down pixel assets designed for rapid
 
 Itch.io: https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-free
 
-![Gridventure Toolkit Pixel Assets Free Demo](images/pixel-asset-free-demo-v4.png)
+![Gridventure Toolkit Pixel Assets Free Demo](images/pixel-asset-free-demo-v4.png) 
+![Gridventure Toolkit Pixel Assets Free Demo](images/world-painted-demo.png)
 
 Includes:
 
