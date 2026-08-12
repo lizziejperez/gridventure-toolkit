@@ -4,6 +4,22 @@ A modular, beginner-friendly toolkit for building top-down adventure games in Un
 
 The Gridventure Toolkit is a growing collection of reusable systems, tools, and assets designed to help developers quickly prototype and build polished 2D adventure games.
 
+## Table of Contents
+
+- [Main Goals](#main-goals)
+- [Current Systems](#current-systems)
+  - [2D Movement System](#2d-movement-system-v20)
+  - [Menu & Scene System](#menu--scene-system-v20)
+  - [World Generation System](#world-generation-system-v10)
+  - [Pixel Assets Free](#pixel-assets-free-v40)
+- [How to Use This Toolkit](#how-to-use-this-toolkit)
+- [Roadmap](#roadmap)
+  - [Currently Planned](#currently-planned)
+  - [Future Systems](#future-systems)
+  - [Asset Packs](#asset-packs)
+- [Design Philosophy](#design-philosophy)
+- [Freelance & Support](#-freelance--support)
+
 ## Main Goals
 
 The goal of Gridventure Toolkit is to provide:
@@ -17,30 +33,13 @@ Inspired by classic top-down adventure games (like Zelda-style systems), this to
 
 ## Current Systems
 
-### World Generation System (v1.0)
-
-A modular 2D world generation system for Unity that creates procedural tile-based worlds using Perlin noise and ScriptableObject-driven configuration.
-
-GitHub: https://github.com/lizziejperez/gridventure-toolkit-world-generation-system
-
-![Gridventure Toolkit Pixel Assets Free Demo](images/world-generated-demo.png)
-
-Features:
-
-* Procedural terrain generation using Perlin noise
-* Tilemap-based rendering with Rule Tile support
-* ScriptableObject-driven terrain and feature setup
-* Deterministic generation using seeds
-* Feature placement system (trees, rocks, etc.)
-* Save & load system for generated worlds
-* Editable worlds via Tile Palette and prefabs
-* Includes demo scene with configured generation and controls
-
 ### 2D Movement System (v2.0)
 
 A reusable, adventure game–inspired 2D top-down movement system built with Unity’s New Input System, designed for clarity, flexibility, and easy integration.
 
-GitHub: [https://github.com/lizziejperez/gridventure-toolkit-movement-system](https://github.com/lizziejperez/gridventure-toolkit-movement-system)
+**GitHub**: [View Source & Documentation](https://github.com/lizziejperez/gridventure-toolkit-movement-system)
+
+**Itch.io**: [Download](https://lizziejperez.itch.io/gridventure-toolkit-2d-movement-system)
 
 Features:
 
@@ -55,7 +54,11 @@ Features:
 
 A reusable, modular menu and scene management system built with Unity’s New Input System for handling title menus, gameplay transitions, and pause functionality.
 
-GitHub: [https://github.com/lizziejperez/gridventure-toolkit-menu-scene-system](https://github.com/lizziejperez/gridventure-toolkit-menu-scene-system)
+**GitHub**: [View Source & Documentation](https://github.com/lizziejperez/gridventure-toolkit-menu-scene-system)
+
+**Itch.io**: [Download](https://lizziejperez.itch.io/gridventure-toolkit-menu-scene-system)
+
+![Gridventure Toolkit Pixel Assets Free Demo](images/title-menu-demo.png)
 
 Features:
 
@@ -66,11 +69,32 @@ Features:
 * Ready-to-use prefabs for title and pause systems
 * Works for both 2D and 3D Unity projects
 
+### World Generation System (v1.0)
+
+A modular 2D world generation system for Unity that creates procedural tile-based worlds using Perlin noise and ScriptableObject-driven configuration.
+
+**GitHub**: [View Source & Documentation](https://github.com/lizziejperez/gridventure-toolkit-world-generation-system)
+
+**Itch.io**: [Download](https://lizziejperez.itch.io/gridventure-toolkit-world-generation-system)
+
+![Gridventure Toolkit Pixel Assets Free Demo](images/world-generated-demo.png)
+
+Features:
+
+* Procedural terrain generation using Perlin noise
+* Tilemap-based rendering with Rule Tile support
+* ScriptableObject-driven terrain and feature setup
+* Deterministic generation using seeds
+* Feature placement system (trees, rocks, etc.)
+* Save & load system for generated worlds
+* Editable worlds via Tile Palette and prefabs
+* Includes demo scene with configured generation and controls
+
 ### Pixel Assets Free (v4.0)
 
 A cohesive collection of original 16x16 top-down pixel assets designed for rapid prototyping and use with Gridventure Toolkit systems and demos.
 
-Itch.io: https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-free
+**Itch.io**: [Download](https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-free)
 
 ![Gridventure Toolkit Pixel Assets Free Demo](images/pixel-asset-free-demo-v4.png) 
 ![Gridventure Toolkit Pixel Assets Free Demo](images/world-painted-demo.png)
