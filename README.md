@@ -39,7 +39,7 @@ A reusable, adventure game–inspired 2D top-down movement system built with Uni
 
 **GitHub**: [View Source & Documentation](https://github.com/lizziejperez/gridventure-toolkit-movement-system)
 
-**Itch.io**: [Download](https://lizziejperez.itch.io/gridventure-toolkit-2d-movement-system)
+**Itch.io**: [View Project Page](https://lizziejperez.itch.io/gridventure-toolkit-2d-movement-system)
 
 Features:
 
@@ -56,7 +56,7 @@ A reusable, modular menu and scene management system built with Unity’s New In
 
 **GitHub**: [View Source & Documentation](https://github.com/lizziejperez/gridventure-toolkit-menu-scene-system)
 
-**Itch.io**: [Download](https://lizziejperez.itch.io/gridventure-toolkit-menu-scene-system)
+**Itch.io**: [View Project Page](https://lizziejperez.itch.io/gridventure-toolkit-menu-scene-system)
 
 ![Gridventure Toolkit Pixel Assets Free Demo](images/title-menu-demo.png)
 
@@ -75,7 +75,7 @@ A modular 2D world generation system for Unity that creates procedural tile-base
 
 **GitHub**: [View Source & Documentation](https://github.com/lizziejperez/gridventure-toolkit-world-generation-system)
 
-**Itch.io**: [Download](https://lizziejperez.itch.io/gridventure-toolkit-world-generation-system)
+**Itch.io**: [View Project Page](https://lizziejperez.itch.io/gridventure-toolkit-world-generation-system)
 
 ![Gridventure Toolkit Pixel Assets Free Demo](images/world-generated-demo.png)
 
