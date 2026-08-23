@@ -94,7 +94,7 @@ Features:
 
 A cohesive collection of original 16x16 top-down pixel assets designed for rapid prototyping and use with Gridventure Toolkit systems and demos.
 
-**Itch.io**: [Download](https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-free)
+**Itch.io**: [View Project Page](https://lizziejperez.itch.io/gridventure-toolkit-16x16-pixel-assets-free)
 
 ![Gridventure Toolkit Pixel Assets Free Demo](images/pixel-asset-free-demo-v4.png) 
 ![Gridventure Toolkit Pixel Assets Free Demo](images/world-painted-demo.png)
